@@ -1,8 +1,0 @@
-/** MySQL database name */
-define('DB_NAME', 'devskyg_wrdp3');
-
-/** MySQL database username */
-define('DB_USER', 'devskyg_wrdp3');
-
-/** MySQL database password */
-define('DB_PASSWORD', 'Zlzu1t49fEVTj');
